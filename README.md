@@ -1,5 +1,11 @@
 # React + Vite
 
+Start UI: **`npm run dev`**
+
+(Make sure you did **`npm i -g json-server`**)
+
+Start JSON Server, at project root (Emulated Backend API): **`json-server --watch db.json`**
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
