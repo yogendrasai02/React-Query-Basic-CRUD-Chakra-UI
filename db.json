@@ -1,7 +1,14 @@
 {
   "cars": [
-    { "id": 1, "company": "Hyundai", "carName": "Exter", "priority": 1 },
-    { "id": 2, "company": "Tata", "carName": "Tiago", "priority": 2 },
-    { "id": 3, "company": "Tata", "carName": "Tigor", "priority": 3 }
+    {
+      "id": "c5a7d1ee-c23d-49aa-81ad-a347f43fa01a",
+      "company": "Hyundai",
+      "carName": "Exter"
+    },
+    {
+      "id": "de24906f-6781-475c-9532-7366e08687b0",
+      "company": "Tata",
+      "carName": "Tiago"
+    }
   ]
 }
